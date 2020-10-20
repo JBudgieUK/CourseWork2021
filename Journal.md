@@ -7,3 +7,6 @@ Internet cut out for 15 mins during lesson, wasnt too bad as i was following tut
 
 ## 14/10/2020
 When finishing up my tutorial i had to go back into my unity file to retrace my steps however, unity wasnt opening up as it seemed that the verison was lost, so it took me 10 to 15 mins or so to re download the verison and place it in the right file.
+
+##20/10/2020
+Today i will be searching and starting my second tutorial. First i will need to find a unity tutorial on how to create or make somthing that will benfit me, so i can then make a tutorial on it.
