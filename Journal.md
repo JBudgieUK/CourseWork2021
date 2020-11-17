@@ -17,3 +17,10 @@ I will be starting my third tutorial which follows on from the second First pers
 
 ## 03/11/2020
 Today i will start my last tutorial, in which i again will be following up from my third tutorial to round off my first person shooter. Today i will be coding to aim in the site and out of the site when right clickin with the gun.
+
+
+## 10/11/2020
+For the lesson today we were given our next assignment which was to design a tutorial again, demonstrating a combined component behaviours. This means all the coding we do will link together to make a game come together such as a piece of code to walk, which will have another code that made enable it to jump and so on. These codes should be able to be used and re-used in multiple games.
+
+
+## 17/11/2020
