@@ -17,6 +17,7 @@ I will be starting my third tutorial which follows on from the second First pers
 
 ## 03/11/2020
 Today i will start my last tutorial, in which i again will be following up from my third tutorial to round off my first person shooter. Today i will be coding to aim in the site and out of the site when right clickin with the gun.
+I had trouble during this tutorial with the 2 perspecties of the gun. When i right clicked to aim down site the gun would be in a different location to the camera. so this took alot of time out of building the project. But i did seem to figure it out and aline it back up with the camera.
 
 
 ## 10/11/2020
