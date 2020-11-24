@@ -20,10 +20,10 @@ Today i will start my last tutorial, in which i again will be following up from 
 
 
 ## 10/11/2020
-For the lesson today we were given our next assignment which was to design a tutorial again, demonstrating a combined component behaviours. This means all the coding we do will link together to make a game come together such as a piece of code to walk, which will have another code that made enable it to jump and so on. These codes should be able to be used and re-used in multiple games. I couldnt seem to find somthing i wanted to make and show as for my 4 other tutorials i made a first person shooter. I decided to go with a flappy bird tutorial and make my own verison.
+For the lesson today we were given our next assignment which was to design a tutorial again, demonstrating a combined component behaviours. This means all the coding we do will link together to make a game come together such as a piece of code to walk, which will have another code that made enable it to jump and so on. These codes should be able to be used and re-used in multiple games. I couldnt seem to find somthing i wanted to make and show as for my 4 other tutorials i made a first person shooter. So ive decided to go with an enemy walk cycle who will switch paths.
 
 
 ## 17/11/2020
-This week again continuing with the game and making the scripts. Im following a tutorial closly, however will redesign at the end.
+This week again continuing with the project and making the scripts. Im not using any tutorials, just knownledge ive learnt from these tutorials and porjects ive done before.
 
 ## 24/11/2020
