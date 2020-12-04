@@ -21,10 +21,14 @@ I had trouble during this tutorial with the 2 perspecties of the gun. When i rig
 
 
 ## 10/11/2020
-For the lesson today we were given our next assignment which was to design a tutorial again, demonstrating a combined component behaviours. This means all the coding we do will link together to make a game come together such as a piece of code to walk, which will have another code that made enable it to jump and so on. These codes should be able to be used and re-used in multiple games. I couldnt seem to find somthing i wanted to make and show as for my 4 other tutorials i made a first person shooter. So ive decided to go with an enemy walk cycle who will switch paths.
+For the lesson today we were given our next assignment which was to design a tutorial again, demonstrating a combined component behaviours. This means all the coding we do will link together to make a game come together such as a piece of code to walk, which will have another code that made enable it to jump and so on. These codes should be able to be used and re-used in multiple games. I designed a menu, with a settings page, Credits, quit and play. The play will load up a new scene with a basic level
 
 
 ## 17/11/2020
-This week again continuing with the project and making the scripts. Im not using any tutorials, just knownledge ive learnt from these tutorials and porjects ive done before.
+This week again continuing with the project and making the scripts. Im not using any tutorials, just knownledge ive learnt from these tutorials and projects ive done before.
 
 ## 24/11/2020
+I have finished of my main menu so now adding the game scene with a basic script for a cube
+
+## 1/12/2020
+Finishing of my final assigenment
