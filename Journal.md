@@ -31,4 +31,4 @@ This week again continuing with the project and making the scripts. Im not using
 I have finished of my main menu so now adding the game scene with a basic script for a cube
 
 ## 1/12/2020
-Finishing of my final assigenment
+Finishing of my final task which is to animate a credits scene.
