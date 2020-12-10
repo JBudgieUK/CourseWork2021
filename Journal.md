@@ -28,7 +28,7 @@ For the lesson today we were given our next assignment which was to design a tut
 This week again continuing with the project and making the scripts. Im not using any tutorials, just knownledge ive learnt from these tutorials and projects ive done before.
 
 ## 24/11/2020
-I have finished of my main menu so now adding the game scene with a basic script for a cube
+I have finished of my main menu so now adding the game scene with a basic movement script to a cube, using WASD.
 
 ## 1/12/2020
 Finishing of my final task which is to animate a credits scene.
